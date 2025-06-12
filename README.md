@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
- This interactive Power BI dashboard visualizes the World Happiness Report by comparing countries on various happiness indicators.This process involved several stage,including data preprocessing , data cleaning ,data visualization. 
+# Happiness-Data-Analysis(interactive Dashboard Creation using Power BI)
+
+## Project Objective 
+To analyze and visualize the happiness levels across different countries by leveraging various socio-economic and psychological indicators like GDP per capita, social support, freedom, life expectancy, and perception of corruption.
