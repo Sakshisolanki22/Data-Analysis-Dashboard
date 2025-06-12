@@ -19,3 +19,48 @@ To analyze and visualize the happiness levels across different countries by leve
 -Which countries show the least corruption perception?
 
 -Dashboard Interaction <a href="https://github.com/Sakshisolanki22/Data-Analysis-Dashboard/blob/main/Screenshot%20(505).png">View Dashboard</a>
+##process
+- Visuals Used:
+
+Table Visuals: For country and score data.
+
+Scatter Chart: To compare GDP vs Happiness Score.
+
+Bar Charts: For top and bottom happiness rankings.
+
+Map Visual: To geographically represent country scores.
+
+Treemap / Heatmap: For Social Support and GDP data representation.
+
+- Data Fields Used:
+
+Country/Region
+
+Happiness Score
+
+GDP per capita
+
+Social Support
+
+Corruption Perception
+
+Freedom to Make Life Choices
+
+Healthy Life Expectancy
+
+Generosity
+
+- Power BI Features:
+
+ Cross-filtering between visuals
+
+ Slicer panel for dynamic filtering
+
+ Data drill-down and drill-through
+
+ Calculated fields (e.g., Sum of Score, GDP, etc.)
+
+Color coding for better visual distinction
+
+## Dashboard 
+![Screenshot (505)](https://github.com/user-attachments/assets/5bb983dc-891f-42be-a300-6d390fc888d3)
