@@ -19,7 +19,8 @@ To analyze and visualize the happiness levels across different countries by leve
 -Which countries show the least corruption perception?
 
 -Dashboard Interaction <a href="https://github.com/Sakshisolanki22/Data-Analysis-Dashboard/blob/main/Screenshot%20(505).png">View Dashboard</a>
-##process
+
+## Process
 - Visuals Used:
 
 Table Visuals: For country and score data.
