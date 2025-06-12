@@ -5,10 +5,17 @@ To analyze and visualize the happiness levels across different countries by leve
 - <a href="https://github.com/Sakshisolanki22/Data-Analysis-Dashboard/blob/main/Happiness%20Score%20Data.csv">Dataset</a>
 ## Questions 
 -Which countries are the happiest in the world?
+
 -Which countries have the lowest happiness scores?
+
 -How does GDP per capita correlate with happiness?
+
 -Which countries have the highest social support?
+
 -How do other factors like generosity, corruption, and life expectancy affect happiness?
+
 -What is the regional distribution of happiness across the globe?
+
 -Which countries show the least corruption perception?
 
+-Dashboard Interaction <a href="https://github.com/Sakshisolanki22/Data-Analysis-Dashboard/blob/main/Screenshot%20(505).png">View Dashboard</a>
